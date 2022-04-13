@@ -1,0 +1,3 @@
+Example of signing data with a symmetric (shared) key algorithm in .NET 6.
+
+Using HMAC-SHA384 hash algorithm.
